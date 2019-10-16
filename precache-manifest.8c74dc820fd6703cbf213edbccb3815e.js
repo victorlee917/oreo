@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb04837710eaa778f270a188e73f1a2e",
+    "revision": "27a8f2165c2a0797ae0f07d8a507738b",
     "url": "/oreo/index.html"
   },
   {
