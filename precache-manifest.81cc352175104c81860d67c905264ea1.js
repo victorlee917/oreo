@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bde2f0fac39adb6e853d1d9b65f89116",
+    "revision": "c0c8aa3e9eb4610a7783e9833d9d2450",
     "url": "/oreo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oreo/static/js/2.5365607d.chunk.js"
   },
   {
-    "revision": "208bdd570e90aac56a33",
-    "url": "/oreo/static/js/main.1855b052.chunk.js"
+    "revision": "d1217089920d82972b45",
+    "url": "/oreo/static/js/main.9719ebcc.chunk.js"
   },
   {
     "revision": "4de803d2f93eed3253b9",
