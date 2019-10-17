@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oreo/precache-manifest.bb75525f39e41494860b0e12f6dcb354.js"
+  "/oreo/precache-manifest.b2972d88c2bae3899d3e4461943480a4.js"
 );
 
 self.addEventListener('message', (event) => {
