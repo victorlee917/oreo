@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.js": "/oreo/static/js/main.9719ebcc.chunk.js",
-    "main.js.map": "/oreo/static/js/main.9719ebcc.chunk.js.map",
+    "main.js": "/oreo/static/js/main.e1a405d0.chunk.js",
+    "main.js.map": "/oreo/static/js/main.e1a405d0.chunk.js.map",
     "runtime-main.js": "/oreo/static/js/runtime-main.725f30ce.js",
     "runtime-main.js.map": "/oreo/static/js/runtime-main.725f30ce.js.map",
     "static/js/2.5365607d.chunk.js": "/oreo/static/js/2.5365607d.chunk.js",
     "static/js/2.5365607d.chunk.js.map": "/oreo/static/js/2.5365607d.chunk.js.map",
     "index.html": "/oreo/index.html",
-    "precache-manifest.81cc352175104c81860d67c905264ea1.js": "/oreo/precache-manifest.81cc352175104c81860d67c905264ea1.js",
-    "service-worker.js": "/oreo/service-worker.js",
-    "static/media/Example.png": "/oreo/static/media/Example.193bd17c.png",
-    "static/media/Finish.png": "/oreo/static/media/Finish.528ae0cd.png",
-    "static/media/OREO.png": "/oreo/static/media/OREO.584f59d0.png",
-    "static/media/Offer.png": "/oreo/static/media/Offer.21087ec6.png",
-    "static/media/Opinion.png": "/oreo/static/media/Opinion.b6e01189.png",
-    "static/media/Reason.png": "/oreo/static/media/Reason.ac4a41b4.png",
-    "static/media/Target.png": "/oreo/static/media/Target.20cdd97f.png"
+    "precache-manifest.91ab0942a1d7fa5a774a02545b80044d.js": "/oreo/precache-manifest.91ab0942a1d7fa5a774a02545b80044d.js",
+    "service-worker.js": "/oreo/service-worker.js"
   }
 }
