@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/oreo/static/js/main.f95da3b7.chunk.js",
-    "main.js.map": "/oreo/static/js/main.f95da3b7.chunk.js.map",
+    "main.js": "/oreo/static/js/main.bb38ce1c.chunk.js",
+    "main.js.map": "/oreo/static/js/main.bb38ce1c.chunk.js.map",
     "runtime-main.js": "/oreo/static/js/runtime-main.725f30ce.js",
     "runtime-main.js.map": "/oreo/static/js/runtime-main.725f30ce.js.map",
-    "static/js/2.83582033.chunk.js": "/oreo/static/js/2.83582033.chunk.js",
-    "static/js/2.83582033.chunk.js.map": "/oreo/static/js/2.83582033.chunk.js.map",
+    "static/js/2.13d205eb.chunk.js": "/oreo/static/js/2.13d205eb.chunk.js",
+    "static/js/2.13d205eb.chunk.js.map": "/oreo/static/js/2.13d205eb.chunk.js.map",
     "index.html": "/oreo/index.html",
-    "precache-manifest.645626ccd08d19f4fbeccac50ce6c153.js": "/oreo/precache-manifest.645626ccd08d19f4fbeccac50ce6c153.js",
+    "precache-manifest.44f36e7847f9f319dea16242953a6a72.js": "/oreo/precache-manifest.44f36e7847f9f319dea16242953a6a72.js",
     "service-worker.js": "/oreo/service-worker.js"
   }
 }
